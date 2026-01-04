@@ -1,0 +1,7 @@
+{
+  "name": " Hello",
+  "description": "An AI-powered application that extracts text from images, translates it into natural Telugu, and generates high-quality Telugu audio for accessibility and learning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
